@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### The Spillover Effect of Waiver Disclosures on Corporate Risk-Taking
-_Job Market Paper_
+***Job Market Paper***
 ><div style="text-align: justify">I examine the impact of covenant waiver disclosures by peer firms on the risk-taking behaviors of focal firms who share lenders. I posit that waiver disclosures by peer firms diminish the perceived uncertainty and expected costs associated with covenant violations, thereby diminishing the precautionary stance of management and encouraging increased risk-taking. Employing a natural language processing machine learning model to identify covenant violations and waiver disclosures in SEC filings, I conduct a determinant analysis which reveals that borrower characteristics (ROA, leverage, and PP&E) and loan features (lender’s share) correlate with the likelihood of receiving a waiver, albeit with limited explanatory power overall. For my identification strategy, I employ different-in-differences and an instrumental variable to isolate variations in waiver disclosures that are exogenous to and independent of focal firms’ risk-taking. I predict and find that, following the peer waiver disclosures, focal firms amplify their risk-taking, as indicated by higher stock return volatility. Examining the underlying mechanisms, focal firms increase risk-taking by increasing leverage and product-development efforts. Cross-sectional analysis reveals that the effects are more pronounced in cases where a waiver is unconditional and focal firms lack relationship lending. Overall, these findings illuminate a spillover effect where waiver disclosures by peer firms significantly influence managers' capital structure and investment decisions.</div>
 
 Dissertation Committee: Professors Amy Hutton (co-chair), Alvis Lo (co-chair), and Miao Liu
@@ -15,13 +15,13 @@ Presented at Boston College
 
 ### Human Information Production in the Machine Age: Evidence from Automated Information Acquisition in the Asset Management Industry? (with Kai Du, Miao Liu and Shuyang Wang)
 
-_Revising for 2nd round review at the Journal of Accounting Research_
+***Revising for 2nd round review at the Journal of Accounting Research***
 
 <div style="text-align: justify">We examine the impact of automation on the role of humans in the asset management industry's three-stage information processing activities: awareness, acquisition, and integration. Our findings reveal that automating the download of SEC filings allows the human workforce to expand their research across a broader set of firms, thereby enhancing information awareness. Additionally, humans increasingly focus on acquiring soft information from conference calls and context-based data, such as historical filings, indicating improved information acquisition. We also observe that these enhancements in human information awareness and acquisition are effectively integrated into real activities, such as trading and portfolio allocation. Moreover, post-automation, humans shift their information processing efforts towards portfolio firms where they likely hold a comparative advantage over machines, including firms with more intangible assets, firms with multiple industry segments, and firms with which they have established long-term investment relationships. Our results suggest that the unique value of the human workforce is amplified when automation relieves them from repetitive and mechanical tasks.</div>
 
 ### The Credibility of Non-Disclosure: Evidence from Real-time Market Response to NonAnswers in Conference Calls (with Jared Flake and Miao Liu)
 
-_Under review at the Accounting Review_
+***Under review at the Accounting Review***
 
 <div style="text-align: justify">Managers sometimes give non-disclosure to investors despite their best intentions, either due to a lack of information or substantial proprietary costs. However, it is difficult for investors to distinguish these managers from those hiding negative news. This paper investigates whether managers can establish a transparent disclosure reputation to credibly communicate the absence of information, using non-answers during earnings calls as a setting. By matching granular, time-stamped earnings call conversations with high-frequency trading data, we create a novel dataset that examines immediate real-time market reactions to non-answers given by managers. Additionally, we leverage large language models (LLMs) to build a database of strategies that managers adopt to establish a transparent disclosure reputation, including providing detailed elaboration when issuing negative earnings guidance and proactively interacting with bearish analysts. We find that these disclosure strategies bolster managers’ credibility when communicating the absence of information. Our study highlights the importance of disclosure strategies that managers can adopt to ensure credible communication within the dynamic context of real-time scenarios.</div>
 
@@ -29,7 +29,7 @@ Presented at: 2024 FARS Conference, 2024 AAA Annual Meeting
 
 ### A Rotten Apple Spoils the Barrel? The Spillover Effect of Corporate ESG Misconduct on Family Stock Ownership (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
 
-_Under review at the Review of Accounting Studies_
+***Under review at the Review of Accounting Studies***
 
 <div style="text-align: justify">Corporate ESG misconduct, such as pollution and workplace violations, generates public outcry and raises concerns that corporations profit at the expense of society and the environment. We contend that ESG misconduct hurts families’ perception of corporations at large and their willingness to own stocks. We find that families in states with a higher frequency of local ESG misconduct cases are less likely to invest in the stock market. The results are mainly present in subsamples where the misconduct can attract more public criticism (e.g., when the misconduct firms are financially strong) or when the families are prosocial. The local environment (e.g., counter-examples set by local non-misconduct firms with good ESG performance) also influences the effect of ESG misconduct. Our findings highlight that ESG failures by individual firms aggravate families’ reluctance to own stocks, suggesting an unexplored spillover effect of negative ESG performance.</div>
 
