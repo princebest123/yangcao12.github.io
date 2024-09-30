@@ -21,7 +21,7 @@ Presented at Boston College
 
 ### The Credibility of Non-Disclosure: Evidence from Real-time Market Response to NonAnswers in Conference Calls (with Jared Flake and Miao Liu)
 
-***Under review at the Accounting Review***
+***Under review***
 
 <div style="text-align: justify">Managers sometimes give non-disclosure to investors despite their best intentions, either due to a lack of information or substantial proprietary costs. However, it is difficult for investors to distinguish these managers from those hiding negative news. This paper investigates whether managers can establish a transparent disclosure reputation to credibly communicate the absence of information, using non-answers during earnings calls as a setting. By matching granular, time-stamped earnings call conversations with high-frequency trading data, we create a novel dataset that examines immediate real-time market reactions to non-answers given by managers. Additionally, we leverage large language models (LLMs) to build a database of strategies that managers adopt to establish a transparent disclosure reputation, including providing detailed elaboration when issuing negative earnings guidance and proactively interacting with bearish analysts. We find that these disclosure strategies bolster managers’ credibility when communicating the absence of information. Our study highlights the importance of disclosure strategies that managers can adopt to ensure credible communication within the dynamic context of real-time scenarios.</div>
 
@@ -29,7 +29,7 @@ Presented at: 2024 FARS Conference, 2024 AAA Annual Meeting
 
 ### A Rotten Apple Spoils the Barrel? The Spillover Effect of Corporate ESG Misconduct on Family Stock Ownership (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
 
-***Under review at the Review of Accounting Studies***
+***Under review***
 
 <div style="text-align: justify">Corporate ESG misconduct, such as pollution and workplace violations, generates public outcry and raises concerns that corporations profit at the expense of society and the environment. We contend that ESG misconduct hurts families’ perception of corporations at large and their willingness to own stocks. We find that families in states with a higher frequency of local ESG misconduct cases are less likely to invest in the stock market. The results are mainly present in subsamples where the misconduct can attract more public criticism (e.g., when the misconduct firms are financially strong) or when the families are prosocial. The local environment (e.g., counter-examples set by local non-misconduct firms with good ESG performance) also influences the effect of ESG misconduct. Our findings highlight that ESG failures by individual firms aggravate families’ reluctance to own stocks, suggesting an unexplored spillover effect of negative ESG performance.</div>
 
