@@ -35,7 +35,7 @@ Presented at: 2024 FARS Conference, 2024 AAA Annual Meeting
 
 _2nd Research Prize Award of IQAM_
 
-Presented at: Boston Empirical Accounting Conference, Bristol Financial Markets Conference, 2024 China International Conference in Finance (CICF), 2024 European Financial Management Association (EFMA) Annual Conference, Northeastern Finance Conference.
+Presented at: Boston Empirical Accounting Conference, Bristol Financial Markets Conference, 2024 China International Conference in Finance (CICF), 2024 European Financial Management Association (EFMA) Annual Conference, Northeastern Finance Conference, JAAF Symposium, PolyU Accounting Research Conference.
 
 ### A Rotten Apple Spoils the Barrel? The Spillover Effect of Corporate ESG Misconduct on Family Stock Ownership (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
 
