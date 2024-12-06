@@ -21,15 +21,23 @@ Presented at Boston College
 
 ### The Credibility of Non-Disclosure: Evidence from Real-time Market Response to NonAnswers in Conference Calls (with Jared Flake and Miao Liu)
 
-***Under review***
+***Revising for 1st round review at the Accounting Review***
 
 <div style="text-align: justify">Managers sometimes give non-disclosure to investors despite their best intentions, either due to a lack of information or substantial proprietary costs. However, it is difficult for investors to distinguish these managers from those hiding negative news. This paper investigates whether managers can establish a transparent disclosure reputation to credibly communicate the absence of information, using non-answers during earnings calls as a setting. By matching granular, time-stamped earnings call conversations with high-frequency trading data, we create a novel dataset that examines immediate real-time market reactions to non-answers given by managers. Additionally, we leverage large language models (LLMs) to build a database of strategies that managers adopt to establish a transparent disclosure reputation, including providing detailed elaboration when issuing negative earnings guidance and proactively interacting with bearish analysts. We find that these disclosure strategies bolster managers’ credibility when communicating the absence of information. Our study highlights the importance of disclosure strategies that managers can adopt to ensure credible communication within the dynamic context of real-time scenarios.</div>
 
 Presented at: 2024 FARS Conference, 2024 AAA Annual Meeting
 
-### A Rotten Apple Spoils the Barrel? The Spillover Effect of Corporate ESG Misconduct on Family Stock Ownership (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
+### Hedging Climate Change Risk: A Real-time Market Response Approach (with Miao Liu and Rachel Xi Zhang)
 
-***Under review***
+***Under Review***
+
+<div style="text-align: justify">We present a novel methodology for constructing portfolios designed to hedge economic and financial risks arising from climate change. We utilize ChatGPT-4 to pinpoint climate-related discussions during earnings conference calls and connect these time-stamped transcripts with high-frequency stock price data at the conversation level. This approach allows us to assess a company's dynamic exposure to climate change risks by analyzing real-time stock price responses to discussions about climate issues. Our proposed portfolio, constructed by taking long (short) positions in stocks with positive (negative) market responses to climate conversations, appreciates in value during periods with negative aggregate climate news shocks. Compared to portfolios constructed using existing alternative methods, our real-time market response-based portfolios demonstrate superior out-of-sample hedge performance. A key advantage of our approach is its ability to capture time-series and cross-sectional variations in stocks’ rapidly-evolving exposures to climate risk, relying on the timing of when climate-related issues become salient topics that warrant conference call discussions and real-time market responses to such conversations. Additionally, we showcase the versatility of our approach in hedging other types of dynamic risks: namely political risk and pandemic risk.</div>
+
+_2nd Research Prize Award of IQAM_
+
+Presented at: Boston Empirical Accounting Conference, Bristol Financial Markets Conference, 2024 China International Conference in Finance (CICF), 2024 European Financial Management Association (EFMA) Annual Conference, Northeastern Finance Conference.
+
+### A Rotten Apple Spoils the Barrel? The Spillover Effect of Corporate ESG Misconduct on Family Stock Ownership (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
 
 <div style="text-align: justify">Corporate ESG misconduct, such as pollution and workplace violations, generates public outcry and raises concerns that corporations profit at the expense of society and the environment. We contend that ESG misconduct hurts families’ perception of corporations at large and their willingness to own stocks. We find that families in states with a higher frequency of local ESG misconduct cases are less likely to invest in the stock market. The results are mainly present in subsamples where the misconduct can attract more public criticism (e.g., when the misconduct firms are financially strong) or when the families are prosocial. The local environment (e.g., counter-examples set by local non-misconduct firms with good ESG performance) also influences the effect of ESG misconduct. Our findings highlight that ESG failures by individual firms aggravate families’ reluctance to own stocks, suggesting an unexplored spillover effect of negative ESG performance.</div>
 
@@ -39,14 +47,6 @@ Presented at: 2024 FARS Conference, 2024 AAA Annual Meeting
 Featured in: [Institutional Money](https://www.institutional-money.com/consent/?url=/fileadmin/emagazin/2023_3_IM/128/index.html)
 
 Presented at: Boston College, Chicago Booth, Music City Accounting Research Conference, MIT Asia Conference, 2023 FARS Conference, and 2023 Spark Conference.
-
-### Hedging Climate Change Risk: A Real-time Market Response Approach (with Miao Liu and Rachel Xi Zhang)
-
-<div style="text-align: justify">We present a novel methodology for constructing portfolios designed to hedge economic and financial risks arising from climate change. We utilize ChatGPT-4 to pinpoint climate-related discussions during earnings conference calls and connect these time-stamped transcripts with high-frequency stock price data at the conversation level. This approach allows us to assess a company's dynamic exposure to climate change risks by analyzing real-time stock price responses to discussions about climate issues. Our proposed portfolio, constructed by taking long (short) positions in stocks with positive (negative) market responses to climate conversations, appreciates in value during periods with negative aggregate climate news shocks. Compared to portfolios constructed using existing alternative methods, our real-time market response-based portfolios demonstrate superior out-of-sample hedge performance. A key advantage of our approach is its ability to capture time-series and cross-sectional variations in stocks’ rapidly-evolving exposures to climate risk, relying on the timing of when climate-related issues become salient topics that warrant conference call discussions and real-time market responses to such conversations. Additionally, we showcase the versatility of our approach in hedging other types of dynamic risks: namely political risk and pandemic risk.</div>
-
-_2nd Research Prize Award of IQAM_
-
-Presented at: Boston Empirical Accounting Conference, Bristol Financial Markets Conference, 2024 China International Conference in Finance (CICF), 2024 European Financial Management Association (EFMA) Annual Conference, Northeastern Finance Conference.
 
 ### Information in Disclosing Emerging Technologies: Evidence from AI Disclosure (with Miao Liu, Jiaping Qiu, and Ran Zhao)
 
