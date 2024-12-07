@@ -21,7 +21,7 @@ Presented at Boston College
 
 ### The Credibility of Non-Disclosure: Evidence from Real-time Market Response to NonAnswers in Conference Calls (with Jared Flake and Miao Liu)
 
-***Revising for 1st round review at the Accounting Review***
+***Revising for 2nd round review at the Accounting Review***
 
 <div style="text-align: justify">Managers sometimes give non-disclosure to investors despite their best intentions, either due to a lack of information or substantial proprietary costs. However, it is difficult for investors to distinguish these managers from those hiding negative news. This paper investigates whether managers can establish a transparent disclosure reputation to credibly communicate the absence of information, using non-answers during earnings calls as a setting. By matching granular, time-stamped earnings call conversations with high-frequency trading data, we create a novel dataset that examines immediate real-time market reactions to non-answers given by managers. Additionally, we leverage large language models (LLMs) to build a database of strategies that managers adopt to establish a transparent disclosure reputation, including providing detailed elaboration when issuing negative earnings guidance and proactively interacting with bearish analysts. We find that these disclosure strategies bolster managers’ credibility when communicating the absence of information. Our study highlights the importance of disclosure strategies that managers can adopt to ensure credible communication within the dynamic context of real-time scenarios.</div>
 
