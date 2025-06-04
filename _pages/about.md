@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">I am a Assistant Professor in Accounting at the School of Accounting and Finance, Hong Kong Polytechnic University. My research interests focus on information spillover and the influence of emerging technologies on information processing.</div>&nbsp;
+<div style="text-align: justify">I am an Assistant Professor in Accounting at the School of Accounting and Finance, Hong Kong Polytechnic University. My research interests focus on information disclosure and the impact of emerging technologies on information processing.</div>&nbsp;
