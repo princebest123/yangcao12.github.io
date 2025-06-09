@@ -27,8 +27,6 @@ Presented at: 2024 FARS Conference, 2024 AAA Annual Meeting
 
 ### Hedging Climate Change Risk: A Real-time Market Response Approach (with Miao Liu and Rachel Xi Zhang)
 
-***Under Review***
-
 <div style="text-align: justify">We present a novel methodology for constructing portfolios designed to hedge economic and financial risks arising from climate change. We utilize ChatGPT-4 to pinpoint climate-related discussions during earnings conference calls and connect these time-stamped transcripts with high-frequency stock price data at the conversation level. This approach allows us to assess a company's dynamic exposure to climate change risks by analyzing real-time stock price responses to discussions about climate issues. Our proposed portfolio, constructed by taking long (short) positions in stocks with positive (negative) market responses to climate conversations, appreciates in value during periods with negative aggregate climate news shocks. Compared to portfolios constructed using existing alternative methods, our real-time market response-based portfolios demonstrate superior out-of-sample hedge performance. A key advantage of our approach is its ability to capture time-series and cross-sectional variations in stocks’ rapidly-evolving exposures to climate risk, relying on the timing of when climate-related issues become salient topics that warrant conference call discussions and real-time market responses to such conversations. Additionally, we showcase the versatility of our approach in hedging other types of dynamic risks: namely political risk and pandemic risk.</div>
 
 _2nd Research Prize Award of IQAM_
